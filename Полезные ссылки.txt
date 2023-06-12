@@ -1,0 +1,9 @@
+https://mlbootcamp.ru/ru/article/tutorial/
+https://neurohive.io/ru/tutorial/primer-reshenija-realnoj-zadachi-po-mashinnomu-obucheniju-na-python/
+https://scikit-learn.org/stable/
+https://pythonworld.ru/novosti-mira-python/scientific-graphics-in-python.html
+https://cpp-python-nsu.inp.nsk.su/textbook/sec4/ch8
+https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
+https://www.codecamp.ru/blog/machine-learning-python-tutorial/
+https://pyneng.readthedocs.io/ru/latest/book/17_serialization/json.html
+https://proglib.io/p/unsupervised-ml-with-python
