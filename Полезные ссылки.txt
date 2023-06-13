@@ -7,3 +7,8 @@ https://machinelearningmastery.com/save-load-machine-learning-models-python-scik
 https://www.codecamp.ru/blog/machine-learning-python-tutorial/
 https://pyneng.readthedocs.io/ru/latest/book/17_serialization/json.html
 https://proglib.io/p/unsupervised-ml-with-python
+
+https://www.kaggle.com/code/pranayrishith16/nyc-trip-duration
+https://github.com/TanmayKedari/Exploratory-Analysis-of-NYC-Taxi/blob/master/NYC%20Taxi%20Trip%20Duration.ipynb
+https://jovian.com/2018309/nyc-taxi-trip-duration
+https://www.kaggle.com/code/parisrohan/featureengg-modelbuild-lr-dtr
